@@ -1,4 +1,4 @@
-#Software Development Course - Week 2
+#Software Development Course
 -------------------------------------
 
 This is a simple Spring Boot project created for my Software Development course. 
